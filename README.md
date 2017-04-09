@@ -1,6 +1,6 @@
 # ProgrammingAssignment2
 Repository for Programming Assignment 2 for R Programming on Coursera
-# read the R script
+# read the R script RAssignmentWeek3.R
 
 # create a *square* matrix (because `solve` only handles square matrices)
 # create the matrix during the call of makeCacheMatrix()
